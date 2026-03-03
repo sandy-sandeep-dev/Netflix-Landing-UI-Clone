@@ -2,6 +2,9 @@
 
 A responsive Netflix landing page clone built using pure HTML and CSS.
 
+## 🌐 Live Demo
+[Click here to view the project](https://sandy-sandeep-dev.github.io/Netflix-UI-Clone/)
+
 ## 🚀 Features
 - Responsive design (Mobile + Desktop)
 - Clean layout using Flexbox
